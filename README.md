@@ -1,4 +1,4 @@
-# React Web Development Notes
+# React Web Development Notes and Exercises
 
 This repository contains comprehensive notes on various aspects of React web development. Whether you are a beginner or an experienced developer, these notes cover a wide range of topics to help you enhance your React skills.
 
